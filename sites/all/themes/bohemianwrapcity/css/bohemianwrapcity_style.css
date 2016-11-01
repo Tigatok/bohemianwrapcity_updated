@@ -196,7 +196,7 @@ body {
     font-style: normal; }
   .block-shipping-discount #shipping #shipping_currency {
     display: block;
-    font-size: 27px;
+    font-size: 12pt;
     margin-top: 2px; }
   .block-shipping-discount #shipping #shipping_message {
     font-family: "Open Sans", sans-serif;
