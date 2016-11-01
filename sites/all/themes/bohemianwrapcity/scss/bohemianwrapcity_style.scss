@@ -226,6 +226,19 @@ body {
 }
 
 #zone-postscript {
+
+  .view-display-id-mini_paged_products {
+    ul{
+      display: inline-flex;
+      width:100%;
+        li{
+          width:200px;
+          margin:0 auto;
+          padding:0;
+        }
+    }
+  }
+
   .view-ad-push .views-row .views-field-field-tagline,
   .block-blog-block .views-field-title {
     .field-content {
@@ -243,8 +256,8 @@ body {
   .block-blog-block:hover .views-field-title {
     .field-content {
       a {
-          background: transparent url('../images/bg_blog_headline.png') left top;
-        }
+        background: transparent url('../images/bg_blog_headline.png') left top;
+      }
     }
   }
 }

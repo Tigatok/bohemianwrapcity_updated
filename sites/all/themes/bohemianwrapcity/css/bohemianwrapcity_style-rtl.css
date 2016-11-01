@@ -1,12 +1,13 @@
+/* Include Default Variables & Mixins */
 @import url(//fonts.googleapis.com/css?family=Open+Sans:400,700,300,600,800);
 @import url(//fonts.googleapis.com/css?family=Gentium+Basic:400,700);
-/* Include Default Variables & Mixins */
 /* End Variables & Mixins */
 /* User menu */
 .block-menu-user-menu .content ul.menu li.first {
   border-left: 1px solid #ffffff;
   border-right: 0;
   padding-left: 7px; }
+
 .block-menu-user-menu .content ul.menu li.last {
   padding-right: 7px; }
 
@@ -21,6 +22,7 @@
   float: right;
   margin: .5em 0 0 .5em;
   vertical-align: middle; }
+
 .region-sidebar-first .block-facetapi ul li a.facetapi-inactive {
   padding-right: 0px; }
 
@@ -36,8 +38,10 @@
 */
 #block-menu-menu-social-connection .content ul.menu li a.facebook {
   background: url("../images/icon_facebook.png") 98% 50% no-repeat; }
+
 #block-menu-menu-social-connection .content ul.menu li a.twitter {
   background: url("../images/icon_twitter.png") 98% 50% no-repeat; }
+
 #block-menu-menu-social-connection .content ul.menu li a.pinterest {
   background: url("../images/icon_pinterest.png") 98% 50% no-repeat; }
 
@@ -58,11 +62,13 @@
   -webkit-border-radius: 4px 0 0 0;
   -khtml-border-radius: 4px 0 0 0;
   border-radius: 4px 0 0 0; }
+
 .form-item-quantity .ui-corner-br {
   -moz-border-radius: 0 0 0 4px;
   -webkit-border-radius: 0 0 0 4px;
   -khtml-border-radius: 0 0 0 4px;
   border-radius: 0 0 0 4px; }
+
 .form-item-quantity .ui-icon-triangle-1-n {
   background-position: 2px -16px; }
 
@@ -82,6 +88,7 @@
 **************************************************/
 .node-teaser .links.node-links .links .node-readmore a {
   padding-left: 15px; }
+
 .node-teaser .links.node-links .links .comment-comments a {
   padding-right: 20px; }
   .node-teaser .links.node-links .links .comment-comments a span {
