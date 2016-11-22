@@ -45,7 +45,8 @@
 * --
 **************************************************/
 body {
-  background: #ececec url("../images/bg.png") left top; }
+    background: #fff;
+}
 
 .responsive-layout-mobile .facetapi-lists {
   display: none; }
@@ -67,6 +68,12 @@ body {
 /*******************************************
 * 2.1.1. Region user first
 *******************************************/
+
+/**
+We can do styling here and it will get picked up
+**/
+
+
 /* User menu */
 .block-menu-user-menu .content ul.menu li.first {
   border-right: 1px solid #ffffff;
